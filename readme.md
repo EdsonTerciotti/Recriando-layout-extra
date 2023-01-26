@@ -6,4 +6,4 @@ Nesse desafio tive que recriar uma aplicação, a partir de um layout pronto 
 - _style.css_
 
 <div align="center">
-(https://user-images.githubusercontent.com/72473993/214846055-1ab117f9-96c0-41a2-8b0e-19160b254356.png)
+![Screenshot](https://user-images.githubusercontent.com/72473993/214846055-1ab117f9-96c0-41a2-8b0e-19160b254356.png)
