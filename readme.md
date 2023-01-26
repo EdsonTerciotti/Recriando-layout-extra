@@ -7,4 +7,4 @@ Nesse desafio tive que recriar uma aplicação, a partir de um layout pronto 
 
 <div align="center">
 
-![Screenshot_1] (https://github.com/EdsonTerciotti/Recriando-layout-extra/blob/master/images/img1.png)
+
